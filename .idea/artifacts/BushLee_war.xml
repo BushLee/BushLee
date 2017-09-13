@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BushLee:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="BushLee.war">
+      <element id="artifact" artifact-name="BushLee:war exploded" />
+    </root>
+  </artifact>
+</component>
